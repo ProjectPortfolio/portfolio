@@ -10,6 +10,7 @@ You calculate the sentiment using TextBlob or Vader. Based on the polarity and s
 
 With the help of textblob() and SpeechRecognization() ,here small concept about how  we convert audio which can record using microphone into text with the help of Textblob().Perform sentiment_analysis on the basis of polarity and subjectivity.
 
-### 
+### Sentiment_analysis using TfidVectorization(one of the method of NLP).ipynb
+ Tfidfvectorizer aim , is to convert a collection of raw documents to a matrix of TF-IDF features.With the help of TfidVectorization ,we can determine review of hotel_dataset by analysing feedback ,given by customers.
 
 
